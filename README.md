@@ -3,8 +3,8 @@
 ![alt text](https://giffiles.alphacoders.com/223/223461.gif)
 ## 👋 ¡Hola! Soy Ismael López García
 
-Soy un apasionado de la tecnología, la programación y las películas.  
-Actualmente estoy aprendiendo y practicando **C** y **C++**, con el objetivo de mejorar mis habilidades en desarrollo de software de bajo nivel y optimización de código.
+Soy un apasionado de la tecnología, la programación y las películas.Actualmente Ceo de Tizona Games.  
+Estoy aprendiendo y practicando **C** y **C++**, con el objetivo de mejorar mis habilidades en desarrollo de software de bajo nivel y optimización de código.
 
 ---
 
@@ -28,7 +28,7 @@ Me gusta entender cómo funcionan las cosas desde dentro, construir soluciones e
 
 | Tizona Games |  |Actually me |
 |-----------|-----------|-----------|
-| !![alt text](https://media.discordapp.net/attachments/1343555044154409074/1349058024815464499/IMG_2594.png?ex=68f318f1&is=68f1c771&hm=70841c6bd25a17a2fad395146622bfaeda3fcbcba4cb7d28a570531bf341113b&=&format=webp&quality=lossless&width=1524&height=1654) | | ![Me](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGw2anN1YjkzM3g2MzN6N2w4amwwaGgzMTR4amY4Y2V6cWk5dDI5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif) |
+| ![alt text](https://media.discordapp.net/attachments/1343555044154409074/1349058024815464499/IMG_2594.png?ex=68f318f1&is=68f1c771&hm=70841c6bd25a17a2fad395146622bfaeda3fcbcba4cb7d28a570531bf341113b&=&format=webp&quality=lossless&width=1524&height=1654) | | ![Me](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGw2anN1YjkzM3g2MzN6N2w4amwwaGgzMTR4amY4Y2V6cWk5dDI5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif) |
 
 ---
 
@@ -39,6 +39,6 @@ Me gusta entender cómo funcionan las cosas desde dentro, construir soluciones e
 
 ---
 
-> *"Today we are canceling the apocalypse!" — Stacker Pentecost, Pacific Rim*
+> *xao xao xao *
 
 ![Jaeger Fight](https://media.tenor.com/QNw-mPcu-xAAAAAi/superman-hero.gif)
