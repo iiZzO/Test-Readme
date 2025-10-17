@@ -1,6 +1,6 @@
 # 🌊 Pacific Rim Fan | Estudiante de C y C++
 
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO15ri_WMWYgogsnOaZ9dXMU6BD-WCv-6UqA&s)
+![alt text](https://giffiles.alphacoders.com/223/223461.gif)
 ## 👋 ¡Hola! Soy Ismael López García
 
 Soy un apasionado de la tecnología, la programación y las películas de ciencia ficción como *Pacific Rim*.  
@@ -28,7 +28,7 @@ Me gusta entender cómo funcionan las cosas desde dentro, construir soluciones e
 
 | Imagen 1 | Imagen 2 | Imagen 3 |
 |-----------|-----------|-----------|
-| ![Jaeger 1](https://i.imgur.com/6oe8e5R.jpg) | ![Jaeger 2](https://i.imgur.com/dG1cA7f.jpg) | ![Kaiju](https://i.imgur.com/9pUmT1Y.jpg) |
+| ![Jaeger 1](![alt text]()) | ![Jaeger 2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi_Tw_bCcG2yC48qSvU7Q4VqYozOKvBVjDvA&s) | ![Kaiju](https://i.pinimg.com/474x/20/c3/e1/20c3e169a43d6b43e13138e54f95b9db.jpg) |
 
 ---
 
