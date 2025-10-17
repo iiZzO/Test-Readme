@@ -26,9 +26,9 @@ Me gusta entender cómo funcionan las cosas desde dentro, construir soluciones e
 
 ### 📸 
 
-| Imagen 1 | Imagen 2 | Imagen 3 |
+| Tizona Games |  |Actually me |
 |-----------|-----------|-----------|
-| ![Jaeger 1](![alt text](https://media.discordapp.net/attachments/1343555044154409074/1349058024815464499/IMG_2594.png?ex=68f318f1&is=68f1c771&hm=70841c6bd25a17a2fad395146622bfaeda3fcbcba4cb7d28a570531bf341113b&=&format=webp&quality=lossless&width=1524&height=1654) | ![Jaeger 2]() | ![Kaiju](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGw2anN1YjkzM3g2MzN6N2w4amwwaGgzMTR4amY4Y2V6cWk5dDI5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif) |
+| !![alt text](https://media.discordapp.net/attachments/1343555044154409074/1349058024815464499/IMG_2594.png?ex=68f318f1&is=68f1c771&hm=70841c6bd25a17a2fad395146622bfaeda3fcbcba4cb7d28a570531bf341113b&=&format=webp&quality=lossless&width=1524&height=1654) | | ![Me](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGw2anN1YjkzM3g2MzN6N2w4amwwaGgzMTR4amY4Y2V6cWk5dDI5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif) |
 
 ---
 
