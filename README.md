@@ -1,9 +1,9 @@
 # 🌊 42 Student | Estudiante de C y C++
 
-![alt text](https://giffiles.alphacoders.com/223/223461.gif)
+![alt text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFvdDA0eTQwcjllMDBxNTN3ZGV5NmcwejA1anN2MnpqejU5NDZsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 ## 👋 ¡Hola! Soy Ismael López García
 
-Soy un apasionado de la tecnología, la programación y las películas.Actualmente Ceo de Tizona Games.  
+Soy un apasionado de la tecnología, la programación y las películas.Actualmente Trabajo en un proyecto personal llamado de Tizona Games.  
 Estoy aprendiendo y practicando **C** y **C++**, con el objetivo de mejorar mis habilidades en desarrollo de software de bajo nivel y optimización de código.
 
 ---
