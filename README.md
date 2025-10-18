@@ -3,7 +3,7 @@
 ![alt text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFvdDA0eTQwcjllMDBxNTN3ZGV5NmcwejA1anN2MnpqejU5NDZsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 ## 👋 ¡Hola! Soy Ismael López García
 
-Soy un apasionado de la tecnología, la programación y las películas.Actualmente Trabajo en un proyecto personal llamado de Tizona Games.  
+Soy un apasionado de la tecnología, la programación y las películas.Actualmente Trabajo en un proyecto personal llamado Tizona Games,la cual es una desarrolladora de juegos Indie.  
 Estoy aprendiendo y practicando **C** y **C++**, con el objetivo de mejorar mis habilidades en desarrollo de software de bajo nivel y optimización de código.
 
 ---
